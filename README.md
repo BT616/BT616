@@ -1,6 +1,6 @@
 -🏄‍♂️ Brandon Turner
 -  👋 Hi, I’m @BT616
-- 👀 I’m interested in gaming, keyboards, skateboarding, hitting the gym and to learn everything I can about this programming world.
+- 👀 I’m interested in gaming, keyboards, hitting the gym and to learn everything I can about this programming world.
 - 🌱 I’m currently trying to expand my knowledge in javascript and react. 
 
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/brandon-turner-046a7a254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZRMWi6mtT52rnapk5s%2BGUw%3D%3D
