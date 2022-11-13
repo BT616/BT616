@@ -3,7 +3,7 @@
 - 👀 I’m interested in gaming, keyboards, hitting the gym and learning everything I can about this programming world.
 - 🌱 I’m currently trying to expand my knowledge in next.js and apollo. 
 
-- 📫 Reach me on LinkedIn:https://www.linkedin.com/in/brandonwturnerprofile?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzDplDD3PRKCY8NB98vzXRQ%3D%3D
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/brandonwturnerprofile/
 
 ### 🧰 Languages and Tools
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
