@@ -1,7 +1,7 @@
 -🏄‍♂️ Brandon Turner
 -  👋 Hi, I’m @BT616
 - 👀 I’m interested in gaming, keyboards, hitting the gym and learning everything I can about this programming world.
-- 🌱 I’m currently trying to expand my knowledge in React and apollo. 
+- 🌱 I’m currently trying to expand my knowledge in React. 
 
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/brandonwturnerprofile/
 
